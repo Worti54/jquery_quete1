@@ -1,0 +1,39 @@
+#carrousel{
+
+    position:relative;
+
+    height:200px;
+
+    width:700px;
+
+    margin-left:6.2%;
+}
+
+#carrousel ul li{
+
+    list-style:none;
+
+    position:absolute;
+
+    top:0;
+
+    left:0;
+
+}
+
+.gauche
+{
+    position:absolute;
+
+    left:0;
+    top:80%;
+}
+
+
+.droite
+{
+    position:absolute;
+
+    right:0;
+    top:80%;
+}
